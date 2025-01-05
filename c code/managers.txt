@@ -1,0 +1,4 @@
+ID	Name		Designation	Salary
+--------------------------------------------
+101	John Doe		Manager		75000.00
+104	Lucy Black		Manager		80000.00

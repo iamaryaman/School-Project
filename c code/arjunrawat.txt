@@ -1,0 +1,5 @@
+Creation of file
+Opening an existing file
+Reading data 
+WRiting data 
+Closing a file

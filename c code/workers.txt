@@ -1,0 +1,21 @@
+FILE *file -> initialise the file pointer
+int fopen() -> open file
+int fclose(filename); -> close file
+
+fgetc(file) -> reads a single character
+fgets(file) -> reads the entire line
+fscanf(file) -> reads the formatted type
+fread(pointer, size, )
+
+fputc(file) -> writes a single character
+fputs(file) -> writes the entire string
+fpritnf(file) -> writes the formatted imput
+fwrite(file) -> writes in binary
+
+ftell(file) -> tells the position of the file
+fseek(file, offset, origin) -> moves the pointer of the file
+rewind(file) -> moves pointer to the start of the file
+
+int feof(file) -> returns non-zero is EOF is reached
+int ferror(file) -> returns non-zero is error is found
+
