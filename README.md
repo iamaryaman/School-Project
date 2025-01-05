@@ -1,4 +1,4 @@
-<title> Hello Everyone </title>
+Hello Everyone
 
 This is my first github repo, i literally had/have no idea what im doing
 its basically just all my code that i have done till now, 
